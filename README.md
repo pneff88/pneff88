@@ -1,4 +1,4 @@
-I'm Patrick Neff, a software engineer and educator working on building applications to help students learn the Latin language. 
+I'm Patrick Neff, an aspiring software engineer and educator working on building applications to help students learn the Latin language. 
 I currently work in HTML, CSS, JavaScript, React, Ruby and Rails.
 I’m currently learning Python, Java, and C++ and earning my MS in computer science.  
 
